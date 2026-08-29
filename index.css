@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    max-width: 1200px;
+    height: 45vh;
+    margin: auto 100px;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: lightcoral;
+    color: aliceblue;
+    font-weight: bolder;
+}
+input{
+    width: 80%;
+    margin:0px 20px;
+    padding: 10px;
+    font-weight: 900;
+    border-radius: 20px;
+    border: 2px solid aliceblue;
+    color: lightcoral;  
+}
